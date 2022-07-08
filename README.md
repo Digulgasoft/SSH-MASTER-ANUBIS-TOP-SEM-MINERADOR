@@ -1,5 +1,5 @@
 # SSH-PLUS 
-# @ALFAINTERNET
+# Digulgasoft
 
 PROJETO EM ANDAMENTO...
 
